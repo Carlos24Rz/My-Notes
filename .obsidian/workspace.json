@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "78bf0cc699850315",
+    "type": "split",
+    "children": [
+      {
+        "id": "462f54ed6c265481",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39454cd7fdc1190f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a29134fc52002b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "68964b279ebc3476",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4353e2d0756ded55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2e4b30eb30f80755",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ff66930c0b7e20a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5
+  },
+  "right": {
+    "id": "ee5e6f65b72127ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bd9ae989ef12d4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81d39929c16f9be0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "885a35bda9522f91",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c44db1e8d7c28e69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1c786408a95623be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "39454cd7fdc1190f",
+  "lastOpenFiles": [
+    "My 2024 Goals/🧭 2024 Tech Mindmap.canvas",
+    "My 2024 Goals/Purposeful practice.md",
+    "Object Oriented Programming/Object Oriented Programming.md",
+    "Concurrent and Multithreaded Programming/Concurrent and Multithreaded Programming.md",
+    "User Interface Design and User experience/User Interface Design and User experience.md",
+    "User Interface Design and User experience",
+    "Web Development/Web Development.md",
+    "Operating Systems/Operating Systems.md",
+    "Databases/Databases.md",
+    "Operating Systems",
+    "Data Structures and Algorithms/Data Structures & Algorithms.md",
+    "My 2024 Goals/🏅 My Goals.md",
+    "Object Oriented Programming",
+    "Web Development",
+    "Concurrent and Multithreaded Programming",
+    "Data Structures and Algorithms",
+    "Databases",
+    "Bash.md",
+    "Leadership skills.md",
+    "Overcome shyness.md",
+    "**🇺🇸 Get a SWE job in the US before 2026**.md",
+    "Get a SWE job in the US before 2026.md",
+    "Java.md",
+    "Untitled.canvas",
+    "My 2024 Goals/Professional Goals.md",
+    "now_trace.fxt",
+    "trace.fxt",
+    "My 2024 Goals",
+    "Concurrent, Parallel, Multithreaded Programming.md",
+    "2023-11-26.md",
+    "Untitled 1.canvas",
+    "My 2024 Goals.md",
+    "Obsidian.md",
+    "Three laws of motion.md",
+    "Law of Interti.md",
+    "Isaac Newton.md"
+  ]
+}

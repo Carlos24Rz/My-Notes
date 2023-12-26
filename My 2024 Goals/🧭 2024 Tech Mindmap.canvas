@@ -18,10 +18,10 @@
 		{"id":"0680e33f41fc561c","type":"text","text":"## [[Linux]]\n","x":-242,"y":673,"width":142,"height":60,"color":"4"},
 		{"id":"2c1fb87e3774ab90","type":"text","text":"# What are the tools I want to learn?\n","x":-206,"y":390,"width":320,"height":107,"color":"6"},
 		{"id":"2262989cee4d1955","type":"text","text":"## [[AWS]]","x":-47,"y":673,"width":250,"height":60,"color":"4"},
-		{"id":"9bcdb73318f0fab6","type":"text","text":"## [[Docker]]\n","x":78,"y":543,"width":142,"height":60,"color":"4"},
-		{"id":"1a1a8cf8724759ae","type":"text","text":"## [[Object Oriented Programming]]","x":-121,"y":133,"width":270,"height":100,"color":"4"},
-		{"id":"08ee30442141636e","type":"text","text":"## [[Web Development]]","x":-381,"y":50,"width":260,"height":58,"color":"4"},
-		{"id":"2bf1aca607e80b6f","x":57,"y":-153,"width":292,"height":50,"color":"4","type":"text","text":"## [[Operating Systems]]\n"}
+		{"id":"9bcdb73318f0fab6","type":"text","text":"## [[Docker]]\n","x":78,"y":543,"width":162,"height":67,"color":"4"},
+		{"id":"2bf1aca607e80b6f","type":"text","text":"## [[Operating Systems]]\n","x":57,"y":-153,"width":292,"height":50,"color":"4"},
+		{"id":"08ee30442141636e","type":"text","text":"## [[Web Development]]","x":-431,"y":25,"width":260,"height":83,"color":"4"},
+		{"id":"1a1a8cf8724759ae","type":"text","text":"## [[Object Oriented Programming]]","x":-121,"y":25,"width":270,"height":100,"color":"4"}
 	],
 	"edges":[
 		{"id":"c5431c2033183d4b","fromNode":"607426e51ffb7493","fromSide":"top","toNode":"8da3ac1503970143","toSide":"left"},

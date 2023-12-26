@@ -11,8 +11,11 @@
             "id": "39454cd7fdc1190f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": "My 2024 Goals/🏅 My Goals.md",
+                "staged": false
+              }
             }
           }
         ],
@@ -62,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -121,12 +125,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "071f081d1fe53c7c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 492.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -140,18 +153,22 @@
   },
   "active": "39454cd7fdc1190f",
   "lastOpenFiles": [
-    "My 2024 Goals/🧭 2024 Tech Mindmap.canvas",
-    "My 2024 Goals/Purposeful practice.md",
-    "Object Oriented Programming/Object Oriented Programming.md",
-    "Concurrent and Multithreaded Programming/Concurrent and Multithreaded Programming.md",
-    "User Interface Design and User experience/User Interface Design and User experience.md",
-    "User Interface Design and User experience",
-    "Web Development/Web Development.md",
-    "Operating Systems/Operating Systems.md",
-    "Databases/Databases.md",
-    "Operating Systems",
-    "Data Structures and Algorithms/Data Structures & Algorithms.md",
+    "My 2024 Goals/🏫 Purposeful practice.md",
     "My 2024 Goals/🏅 My Goals.md",
+    "My 2024 Goals/🧭 2024 Tech Mindmap.canvas",
+    "2023-12-25.md",
+    "Untitled.canvas",
+    "Databases/Databases.md",
+    "Untitled 1.canvas",
+    "topic.md",
+    "Concurrent and Multithreaded Programming/Concurrent and Multithreaded Programming.md",
+    "Data Structures and Algorithms/Data Structures & Algorithms.md",
+    "Web Development/Web Development.md",
+    "User Interface Design and User experience/User Interface Design and User experience.md",
+    "Object Oriented Programming/Object Oriented Programming.md",
+    "Operating Systems/Operating Systems.md",
+    "User Interface Design and User experience",
+    "Operating Systems",
     "Object Oriented Programming",
     "Web Development",
     "Concurrent and Multithreaded Programming",
@@ -163,14 +180,12 @@
     "**🇺🇸 Get a SWE job in the US before 2026**.md",
     "Get a SWE job in the US before 2026.md",
     "Java.md",
-    "Untitled.canvas",
     "My 2024 Goals/Professional Goals.md",
     "now_trace.fxt",
     "trace.fxt",
     "My 2024 Goals",
     "Concurrent, Parallel, Multithreaded Programming.md",
     "2023-11-26.md",
-    "Untitled 1.canvas",
     "My 2024 Goals.md",
     "Obsidian.md",
     "Three laws of motion.md",
